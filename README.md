@@ -11,7 +11,7 @@ I'm a Software Engineer.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](file:///C:/Users/hp/Downloads/resume.pdf) and contact me by emailing estherraphael126@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1J_wEtql2gJTyzq48UzYLhv0ZZ-_hueex0_TbpAwUpqk/edit) and contact me by emailing estherraphael126@gmail.com.
 
 ---
 
